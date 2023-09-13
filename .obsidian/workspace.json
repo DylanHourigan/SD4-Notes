@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure Cloud Services/AWS Foundational Certificate Exam (Optional but recommended).md",
+                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure Cloud Services/AWS Foundational Certificate Exam (Optional but recommended).md",
+                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure Cloud Services/AWS Foundational Certificate Exam (Optional but recommended).md",
+                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secure Cloud Services/AWS Foundational Certificate Exam (Optional but recommended).md"
+                "file": "Secure Cloud Services/Secure Cloud Services Overview.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "8ba426f053775b06",
   "lastOpenFiles": [
+    "Secure Cloud Services/AWS Foundational Certificate Exam.md",
     "Secure Cloud Services/Secure Cloud Services Overview.md",
-    "Secure Cloud Services/AWS Foundational Certificate Exam (Optional but recommended).md",
     "Secure Cloud Services/Automatic Scaling & Monitoring.md",
     "Secure Cloud Services/Networking & Content Delivery.md",
     "Secure Cloud Services/Global Infrastructure and Billing.md",

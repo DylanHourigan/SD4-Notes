@@ -19,7 +19,7 @@ type: note
 - [[Databases]]
 - [[Cloud Architecture]]
 - [[Automatic Scaling & Monitoring]]
-- [[AWS Foundational Certificate Exam (Optional but recommended)]]
+- [[AWS Foundational Certificate Exam]] *(Optional but recommended)
 
 
 ### References
