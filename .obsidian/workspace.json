@@ -35,28 +35,12 @@
             "id": "13507b5db1643f46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ba426f053775b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secure Cloud Services/Secure Cloud Services Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Secure Cloud Services/Secure Cloud Services Overview.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,41 +174,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ba426f053775b06",
+  "active": "13507b5db1643f46",
   "lastOpenFiles": [
-    "Secure Cloud Services/AWS Foundational Certificate Exam.md",
+    "Enterprise Applications Development/Apache Tomcat.md",
+    "Enterprise Applications Development/Java Servlet.md",
+    "Enterprise Applications Development/Enterprise AppDev Overview.md",
+    "Enterprise Applications Development/Server-Side Programming in Java.md",
     "Secure Cloud Services/Secure Cloud Services Overview.md",
-    "Secure Cloud Services/Automatic Scaling & Monitoring.md",
-    "Secure Cloud Services/Networking & Content Delivery.md",
-    "Secure Cloud Services/Global Infrastructure and Billing.md",
-    "Secure Cloud Services/Amazon Route 53 & CloudFront.md",
+    "Templates/Notes Template.md",
+    "Secure Cloud Services/AWS Shared Responsibility Model.md",
+    "Secure Cloud Services/AWS Cloud Security.md",
     "Secure Cloud Services/Compute.md",
+    "Secure Cloud Services/Cloud Computing Overview.md",
+    "Templates/Topic Template.md",
+    "Secure Cloud Services/AWS Foundational Certificate Exam.md",
+    "Secure Cloud Services/AWS Global Infrastructure.md",
+    "Secure Cloud Services/Global Infrastructure and Billing.md",
+    "Secure Cloud Services/Automatic Scaling & Monitoring.md",
     "Secure Cloud Services/Storage.md",
+    "Secure Cloud Services/Networking & Content Delivery.md",
+    "Secure Cloud Services/Amazon Route 53 & CloudFront.md",
     "Secure Cloud Services/Databases.md",
     "Secure Cloud Services/Cloud Architecture.md",
     "Secure Cloud Services/AWS Well-Architectured Framework.md",
-    "Secure Cloud Services/AWS Cloud Security.md",
     "Secure Cloud Services/Cloud Economics and Billing.md",
     "Secure Cloud Services/Cloud Services Overview.md",
-    "Templates/Notes Template.md",
     "Cloud Services Overview.md",
     "Templates/tp.file.md",
     "Reactive Systems/Reactive Systems Overview.md",
-    "Mgmt in Software Development/Mgmt in Software Development Overview.md",
-    "FYP Research/FYP Research Overview.md",
-    "Entrepreneurship/Entrepreneurship Overview.md",
-    "Enterprise Applications Development/Enterprise AppDev Overview.md",
-    "Mathematics of Machine Learning.md",
     "FYP Research",
     "Reactive Systems",
     "Enterprise Applications Development",
     "Entrepreneurship",
     "Mgmt in Software Development",
     "Secure Cloud Services",
-    "Linear Algebra.md",
     "Untitled.canvas",
-    "Templates",
-    "2023-07-12.md",
-    "Linear.md"
+    "Templates"
   ]
 }

@@ -1,9 +1,9 @@
 
-# <% tp.file.title %>
+# AWS Shared Responsibility Model
 
 ### Description
 
-
+- Placeholder
 
 ### References
 
