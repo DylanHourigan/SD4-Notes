@@ -12,7 +12,7 @@ type: note
 - [[Server-Side Programming in Java]]
 - [[Servlets]]
 - [[Expressions Language & JSTL]]
-- [[JPA (Java Persistence Architecture) & JPQL]]
+- [[JPA (Java Persistence API) & JPQL]]
 - [[Using Sessions & Cookies]]
 - [[Repository Pattern & DB Pooling]]
 - [[Apache Shiro for Authentication & Authorization]]
