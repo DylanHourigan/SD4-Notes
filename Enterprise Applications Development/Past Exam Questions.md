@@ -1,0 +1,15 @@
+## Subtopics
+
+- [[Servlet Questions]]
+- [[Stateless vs. Stateful protocols Questions]]
+- [[SSL & TLS Questions]]
+- [[Repository Patterns Questions]]
+- [[HTTP & Web Sockets Questions]]
+- [[Filters & Listeners Questions]]
+- [[JPA Questions]]
+- [[Database Pooling]]
+- [[Using Sessions & Cookies]]
+- [[JPQL Questions]]
+- [[Entity Relation Mapping Questions]]
+- [[Architecture Questions]]
+- [[Maven Questions]]
