@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "57b7a92b489cf8b1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5172d8e51d85bf46",
+  "active": "57b7a92b489cf8b1",
   "lastOpenFiles": [
     "Enterprise Applications Development/HTTP & Web Sockets Questions.md",
     "Enterprise Applications Development/Past Exam Questions.md",
