@@ -24,9 +24,19 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "2e6411f68a2f6026",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -160,7 +172,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "57b7a92b489cf8b1",
+  "active": "2e6411f68a2f6026",
   "lastOpenFiles": [
     "Enterprise Applications Development/HTTP & Web Sockets Questions.md",
     "Enterprise Applications Development/Past Exam Questions.md",
