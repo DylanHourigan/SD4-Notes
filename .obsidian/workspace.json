@@ -34,9 +34,21 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "203779222d794542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Random/Roadmap for Assignment2 last task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Random/Roadmap for Assignment2 last task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Random/Roadmap for Assignment2 last task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Random/Roadmap for Assignment2 last task.md"
+              }
             }
           },
           {
@@ -172,8 +188,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e6411f68a2f6026",
+  "active": "203779222d794542",
   "lastOpenFiles": [
+    "Untitled.md",
+    "_Random/Roadmap for Assignment2 last task.md",
+    "_Random",
     "Enterprise Applications Development/HTTP & Web Sockets Questions.md",
     "Enterprise Applications Development/Past Exam Questions.md",
     "Untitled.canvas",
@@ -201,7 +220,6 @@
     "FYP Research/FYP Research Overview.md",
     "Enterprise Applications Development/JPA (Java Persistence Architecture) & JPQL.md",
     "Secure Cloud Services/Secure Cloud Services Overview.md",
-    "Secure Cloud Services/AWS Shared Responsibility Model.md",
     "FYP Research",
     "Reactive Systems",
     "Enterprise Applications Development",
