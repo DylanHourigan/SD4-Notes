@@ -11,44 +11,15 @@
             "id": "5172d8e51d85bf46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "57b7a92b489cf8b1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "2e6411f68a2f6026",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "203779222d794542",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "_Random/Roadmap for Assignment2 last task.md",
+                "file": "SQE Exam Prep/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Random/Roadmap for Assignment2 last task.md",
+                "file": "SQE Exam Prep/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Random/Roadmap for Assignment2 last task.md",
+                "file": "SQE Exam Prep/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Random/Roadmap for Assignment2 last task.md"
+                "file": "SQE Exam Prep/Untitled.md"
               }
             }
           },
@@ -188,14 +159,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "203779222d794542",
+  "active": "5172d8e51d85bf46",
   "lastOpenFiles": [
     "Untitled.md",
+    "SQE Exam Prep/Untitled.md",
+    "SQE Exam Prep",
+    "Stateless/State protocols.md",
+    "Untitled.canvas",
     "_Random/Roadmap for Assignment2 last task.md",
-    "_Random",
+    "_Temp",
     "Enterprise Applications Development/HTTP & Web Sockets Questions.md",
     "Enterprise Applications Development/Past Exam Questions.md",
-    "Untitled.canvas",
     "Enterprise Applications Development/Enterprise AppDev Overview.md",
     "Enterprise Applications Development/Using Sessions & Cookies.md",
     "Enterprise Applications Development/Repository Patterns Questions.md",
@@ -209,7 +183,6 @@
     "Enterprise Applications Development/Server-Side Programming in Java.md",
     "Enterprise Applications Development/SSL & TLS.md",
     "Enterprise Applications Development/Stateless vs. Stateful protocols.md",
-    "Stateless/State protocols.md",
     "Stateless",
     "Templates/Notes Template.md",
     "Templates/Topic Template.md",
@@ -219,7 +192,6 @@
     "ServletDiagram.png",
     "FYP Research/FYP Research Overview.md",
     "Enterprise Applications Development/JPA (Java Persistence Architecture) & JPQL.md",
-    "Secure Cloud Services/Secure Cloud Services Overview.md",
     "FYP Research",
     "Reactive Systems",
     "Enterprise Applications Development",
