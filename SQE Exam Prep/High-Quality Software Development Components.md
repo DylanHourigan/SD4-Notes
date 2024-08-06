@@ -24,7 +24,7 @@
 	
 	Together, these components create a robust SQA system that supports continuous improvement, early detection and resolution of issues, and consistent delivery of high-quality software. Companies that effectively implement these practices are better positioned to meet user requirements and maintain high levels of customer satisfaction.
 
-1. "Describe how you expect the V-Model and quality gates will impact your work as a professional software developer after you graduate and when you're working in a modern software development organisation." (2021)
+2. "Describe how you expect the V-Model and quality gates will impact your work as a professional software developer after you graduate and when you're working in a modern software development organisation." (2021)
 
 	The V-Model and quality gates are essential components of modern software development processes that will significantly impact my work as a professional software developer after graduation.
 	
@@ -46,4 +46,36 @@
 	
 	In conclusion, the V-Model and quality gates will play a crucial role in shaping my work as a software developer by instilling a disciplined approach to quality assurance and continuous improvement. This structured framework will not only help me deliver high-quality software but also enhance my skills and professional growth in the evolving field of software development.
 
-1. "Describe how the work of professional software developers is impacted by software quality and SQA system components in modern software development environments." (2019)
+3. "Describe how the work of professional software developers is impacted by software quality and SQA system components in modern software development environments." (2019)
+
+	In modern software development environments, the work of professional software developers is significantly influenced by the emphasis on software quality and the implementation of Software Quality Assurance (SQA) system components. These elements impact various aspects of their daily tasks and overall project execution.
+
+	### Systematic and Disciplined Approach
+	
+	Developers are required to adopt a systematic and disciplined approach to their work, as defined by software engineering principles. This approach involves meticulous planning, adherence to established development standards, and ongoing evaluation throughout the software lifecycle. By following these structured guidelines, developers ensure that the software meets both functional and non-functional requirements, contributing to the overall quality and reliability of the product.
+	
+	### Verification and Validation (V&V)
+	
+	The V&V processes are integral to maintaining high-quality software. Verification activities confirm that the products of each development phase meet the specified conditions, while validation ensures the final product meets user needs and expectations. Developers must engage in both creating and testing software, which means they are involved in identifying and addressing defects early in the development cycle. This dual focus helps in minimizing the risk of costly fixes later in the project and ensures that the final product aligns with customer requirements.
+	
+	### Quality Metrics and Measurement
+	
+	Quality metrics, such as defect density and defect removal efficiency, are crucial for monitoring the effectiveness of the development process. These metrics provide insights into areas that need improvement and help maintain the software's quality standards. Developers are responsible for contributing to the collection and analysis of these metrics, which are vital for continuous process improvement. By understanding and utilizing these metrics, developers can focus their efforts on the most critical aspects of the software, enhancing overall product quality.
+	
+	### Continuous Integration (CI)
+	
+	CI practices involve the frequent integration of code changes, accompanied by automated builds and testing. This practice ensures that defects are identified and resolved quickly, preventing them from accumulating and causing more significant issues later. For developers, this means making more frequent, smaller commits and collaborating closely with other team members to ensure that the software remains stable and functional. CI promotes a culture of rapid feedback and continuous improvement, which is essential in modern agile environments.
+	
+	### Documentation and Procedures
+	
+	Accurate and comprehensive documentation is a key component of the SQA system. It provides developers with clear guidelines for development, testing, and maintenance activities. Developers must ensure that all documentation, including technical specifications and user manuals, is kept up-to-date and accurately reflects the software's current state. This documentation is crucial for facilitating maintenance and future development efforts, as it helps prevent misunderstandings and errors.
+	
+	### Teamwork and Coordination
+	
+	In modern software projects, multiple teams often work on different components of the system. Effective communication and coordination among these teams are crucial for integrating the various parts into a cohesive final product. Developers must collaborate closely with other teams, including those responsible for network infrastructure, third-party integrations, and operations. This collaboration helps ensure that all components work together seamlessly and that the final product meets all technical and business requirements.
+	
+	### Focus on Quality Attributes
+	
+	Developers are also tasked with considering a wide range of quality attributes, such as maintainability, flexibility, testability, and usability. These attributes are critical not only for meeting the immediate needs of the software but also for ensuring that it can be easily maintained and extended in the future. By focusing on these aspects, developers contribute to creating a product that provides a positive user experience and is resilient to changes and updates.
+	
+	In conclusion, the emphasis on software quality and the integration of SQA system components significantly shape the role of professional software developers. These elements foster a disciplined, collaborative, and quality-focused work environment, where developers are constantly engaged in improving both the product and the processes used to create it. This comprehensive approach helps ensure that the software meets high standards of quality, reliability, and user satisfaction.
