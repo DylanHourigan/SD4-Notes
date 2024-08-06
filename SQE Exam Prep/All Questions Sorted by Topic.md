@@ -13,14 +13,14 @@
     - "Formulate an email detailing any six of the nine causes of software errors in Galin’s classification and differentiate between software errors, software faults and software failures." (2018)
     - "Galin states that software problems can be difficult to identify and he differentiates between software errors, software faults and software failures. Explain your understanding of these terms and why developers and users view them differently." (2021, 2023)
 
-### **Continuous Integration (CI)**
+### **[[Continuous Integration (CI)]]**
 
 1. **Rationale and Impact of CI**
     - "Explain why many software development organisations are moving to Continuous Integration (CI)." (2019)
     - "Describe how issues in relation to Continuous Integration (CI) can provide insights into the state of an organisation’s software development." (2022)
     - "Suppose a scrum master tells his development team of which you are a member that they must move from their existing weekly builds to Continuous Integration (CI) for the next sprint. Formulate and write an appropriate email for the team." (2023)
 
-### **Integration Testing Approaches**
+### **[[Integration Testing Approaches]]**
 
 1. **Applying Integration Test Approaches**
     - "Apply each of the integration test approaches listed below to determine the sequence of tests and their dependencies to test the system depicted in Figure 1. Also analyse the need for stubs and drivers and comment on the time taken for a basic working system with each of the approaches listed below." (2018, 2019, 2021, 2022, 2023)
