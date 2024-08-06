@@ -26,6 +26,24 @@
 
 1. "Describe how you expect the V-Model and quality gates will impact your work as a professional software developer after you graduate and when you're working in a modern software development organisation." (2021)
 
+	The V-Model and quality gates are essential components of modern software development processes that will significantly impact my work as a professional software developer after graduation.
 	
+	### V-Model
+	
+	The V-Model emphasizes a structured approach to software development where each phase is accompanied by a corresponding phase of testing. As a developer, this model will guide me through a clear, systematic process where every development phase—ranging from requirements specification to design and implementation—has a matching verification activity. This structure ensures that I am always mindful of both the functional and non-functional requirements, promoting a thorough understanding of the product being developed. The V-Model's insistence on early and continuous verification and validation (V&V) helps in catching defects early in the development cycle, which is crucial for maintaining high quality and reducing costs associated with fixing issues in later stages.
+	
+	### Quality Gates
+	
+	Quality gates serve as critical checkpoints within the development lifecycle, ensuring that each phase meets predefined quality criteria before proceeding. These gates enforce a rigorous review process that evaluates the deliverables at various stages, such as code quality, documentation, and adherence to standards. For a developer, this means that my work will be subject to regular scrutiny, encouraging a disciplined and detail-oriented approach to software development. Quality gates not only ensure that the product meets customer expectations but also foster a culture of continuous improvement. They provide clear, measurable targets for each phase, making it easier to track progress and identify areas for improvement.
+	
+	### Impact on Professional Work
+	
+	Working within the V-Model and adhering to quality gates will require me to be meticulous in my coding practices and diligent in adhering to design specifications and standards. It will involve not only writing code but also participating in various testing activities, such as unit testing, integration testing, and system testing, to validate that the software meets the required standards. This dual focus on development and testing aligns well with modern practices like continuous integration and test-driven development, which emphasize quick feedback and iterative improvement.
+	
+	### Professional Growth and Adaptability
+	
+	Understanding and applying the principles of the V-Model and quality gates will also enhance my adaptability and versatility in the software industry. These frameworks provide a foundation that is applicable across various project methodologies, including agile, waterfall, and hybrid models. Being well-versed in these processes will prepare me for a range of roles, from development to quality assurance and project management, thus broadening my career opportunities and potential for growth.
+	
+	In conclusion, the V-Model and quality gates will play a crucial role in shaping my work as a software developer by instilling a disciplined approach to quality assurance and continuous improvement. This structured framework will not only help me deliver high-quality software but also enhance my skills and professional growth in the evolving field of software development.
 
 1. "Describe how the work of professional software developers is impacted by software quality and SQA system components in modern software development environments." (2019)
