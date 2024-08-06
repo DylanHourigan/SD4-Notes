@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/Software Errors, Faults, and Failures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/Software Errors, Faults, and Failures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/Software Errors, Faults, and Failures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md"
+                "file": "SQE Exam Prep/Software Errors, Faults, and Failures.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "5172d8e51d85bf46",
   "lastOpenFiles": [
+    "SQE Exam Prep/All Questions Sorted by Topic.md",
+    "SQE Exam Prep/Software Errors, Faults, and Failures.md",
     "SQE Exam Prep/Software Quality Assurance (SQA) System Components.md",
     "SQE Exam Prep/High-Quality Software Development Components.md",
-    "SQE Exam Prep/All Questions Sorted by Topic.md",
     "Untitled.md",
     "SQE Exam Prep",
     "Stateless/State protocols.md",
@@ -190,7 +191,6 @@
     "Templates/Topic Template.md",
     "Enterprise Applications Development/Jakarta.md",
     "Enterprise Applications Development/JSTL.md",
-    "Enterprise Applications Development/JPA.md",
     "ServletDiagram.png",
     "FYP Research",
     "Reactive Systems",
