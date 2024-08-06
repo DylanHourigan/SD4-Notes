@@ -5,7 +5,7 @@
     - "Describe how the work of professional software developers is impacted by software quality and SQA system components in modern software development environments." (2019)
     - "Describe how you expect the V-Model and quality gates will impact your work as a professional software developer after you graduate and when you're working in a modern software development organisation." (2021)
 
-### **Software Errors, Faults, and Failures**
+### **[[Software Errors, Faults, and Failures]]**
 
 1. **[[Understanding Software Errors, Faults, and Failures]]**
     - "Explain your understanding of software errors, software faults and software failures and explain why developers and users view these differently." (2018, 2021, 2023)
