@@ -64,17 +64,17 @@
 
 ### **Software Quality Assurance Plan (SQAP)**
 
-1. **Importance and Contents of SQAP**
+1. **[[Importance and Contents of SQAP]]**
     - "Analyse how an effective software quality assurance plan (SQAP) provides guidelines so that quality actions are not an after-thought and it also orients the project towards prevention. In your analysis you should refer to the questions addressed by the Software Quality Assurance Plan (SQAP)." (2022)
     - "Quality planning is greatly assisted by a number of IEEE standards such as IEEE 730 which specifies the format and content of software quality assurance plans. Describe the major topics of a software quality assurance plan (SQAP)." (2018)
 
 ### **Verification and Validation (V&V)**
 
-1. **Impact of V&V Processes**
+1. **[[Impact of V&V Processes]]**
     - "Verification and Validation (V&V) processes are implemented throughout the software lifecycle, describe how you think this impacts work for professional software developers." (2022)
 
 ### **Decision Making for Software Release**
 
-1. **Assessing Software Readiness for Release**
+1. **[[Assessing Software Readiness for Release]]**
     - "Formulate an appropriate written response for your product manager which assesses the situation and utilises analysis of both defect density and defect pooling and state clearly any assumptions that underpin your analysis." (2018)
     - "You are a member of a development team approaching the final stages of testing a software product called SysTUS V3.0 which consists of 70,000 new lines of code and 415 bugs have been found and fixed so far. As a result of competitive pressures your product manager has requested an assessment of the reliability of V3.0 of the software and the likely maintenance effort if the software were to be released immediately. Use defect pooling and density data to provide your assessment." (2023)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/High-Quality Software Development Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/High-Quality Software Development Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/High-Quality Software Development Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md"
+                "file": "SQE Exam Prep/High-Quality Software Development Components.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "5172d8e51d85bf46",
   "lastOpenFiles": [
-    "Untitled.md",
     "SQE Exam Prep/All Questions Sorted by Topic.md",
+    "SQE Exam Prep/High-Quality Software Development Components.md",
+    "Untitled.md",
     "SQE Exam Prep",
     "Stateless/State protocols.md",
     "Untitled.canvas",
@@ -191,7 +192,6 @@
     "Enterprise Applications Development/JPA.md",
     "ServletDiagram.png",
     "FYP Research/FYP Research Overview.md",
-    "Enterprise Applications Development/JPA (Java Persistence Architecture) & JPQL.md",
     "FYP Research",
     "Reactive Systems",
     "Enterprise Applications Development",
