@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQE Exam Prep/Software Errors, Faults, and Failures.md",
+                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c9bb1906e14c4f2",
+            "id": "4e94bdf0fa9eaf71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQE Exam Prep/All Questions Sorted by Topic.md",
+                "file": "SQE Exam Prep/Software Errors, Faults, and Failures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,11 +171,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c9bb1906e14c4f2",
+  "active": "5172d8e51d85bf46",
   "lastOpenFiles": [
-    "SQE Exam Prep/Software Quality Assurance (SQA) System Components.md",
     "SQE Exam Prep/Software Errors, Faults, and Failures.md",
     "SQE Exam Prep/All Questions Sorted by Topic.md",
+    "SQE Exam Prep/Software Quality Assurance (SQA) System Components.md",
     "SQE Exam Prep/High-Quality Software Development Components.md",
     "Untitled.md",
     "SQE Exam Prep",
